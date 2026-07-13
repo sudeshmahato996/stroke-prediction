@@ -134,4 +134,3 @@ Future work could explore:
 - External validation on independent datasets.
 
 ---  
-*Generated from the Stroke Prediction notebook (Project2).*
